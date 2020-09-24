@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1594659520 source:c:\users\kasia\desktop\programowanie\c++\daily interview pro\add_digits\generate_all_ip_addressess\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
+1594659520 source:c:\users\kasia\desktop\programowanie\c++\daily interview pro\generate_all_ip_addressess\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
